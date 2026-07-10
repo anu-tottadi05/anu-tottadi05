@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently learning **Python, Linux, Git, GitHub, Shell Scripting, Jenkins**
+- 🌱 Currently learning **Python, Linux, Git, GitHub, Shell Scripting,Jenkins**
 - 🚀 Passionate about **DevOps & Cloud Technologies**
 - 💬 Ask me about **Linux, Git, Python, CI/CD**
 - 📫 Reach me at: **anushatottadi2005@gmail.com**
