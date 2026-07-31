@@ -6,6 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🌱 Currently learning **Python, Linux, Git, GitHub, Shell Scripting,Jenkins**
+- 🚀 Projects **Flask Based Web Applications** 
 - 🚀 Intersted in **DevOps & Cloud Technologies**
 - 💬 Ask me about **Linux, Git, Python, CI/CD, Flask, Sql Lite**
 - 📫 Reach me at: **anushatottadi2005@gmail.com**
