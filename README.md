@@ -29,7 +29,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,bash,jenkins" />
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,jenkins" />
 </p>
 
 ---
