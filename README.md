@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anusha Tottadi</h1>
-<h3 align="center">Aspiring DevOps Engineer from India 🇮🇳</h3>
+<h3 align="center">Aspiring Software Engineer from India 🇮🇳</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
 - 🌱 Currently learning **Python, Linux, Git, GitHub, Shell Scripting,Jenkins**
-- 🚀 Passionate about **DevOps & Cloud Technologies**
-- 💬 Ask me about **Linux, Git, Python, CI/CD**
+- 🚀 Intersted in **DevOps & Cloud Technologies**
+- 💬 Ask me about **Linux, Git, Python, CI/CD, Flask, Sql Lite**
 - 📫 Reach me at: **anushatottadi2005@gmail.com**
 
 ---
@@ -28,7 +28,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,bash,jenkins,docker" />
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,bash,jenkins" />
 </p>
 
 ---
